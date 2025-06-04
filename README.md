@@ -1,5 +1,3 @@
-# API-Automation
-API Automation
 RestAssuredAutomation/
 ├── features/
 │   └── ApiTests.feature
